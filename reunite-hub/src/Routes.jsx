@@ -5,7 +5,7 @@ import SubmitForm from "./pages/SubmitForm.jsx";
 import Volunteer from "./pages/Volunteer.jsx";
 import Resources from "./pages/Resources.jsx"; 
 import Error_page from "./pages/Error_page.jsx"; 
-import AlertsMaps from "./Pages/AlertsMaps.jsx"; 
+import AlertsMaps from "./pages/AlertsMaps.jsx"; 
 import Login from "./pages/Login.jsx"; 
 import ForgotPassword from "./pages/ForgotPassword.jsx"; 
 import SignUp from "./pages/SignUp.jsx";

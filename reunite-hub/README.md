@@ -91,3 +91,16 @@ These helpers expect a backend API root under `/api` (proxy or server).
 1. Fork the repo and create a branch for your feature/fix.
 2. Run the dev server and implement changes.
 3. Open a pull request with a clear description.
+<<<<<<< HEAD
+=======
+
+## License
+
+This repository does not include a license file. Add a `LICENSE` if you intend to open-source the project.
+
+---
+If you'd like, I can also:
+- add a contributing guide,
+- add developer setup for environment variables (API base URL), or
+- run quick checks and adjust README details after you confirm any backend endpoints or environment variables.
+>>>>>>> 4a842a50169b56a4dd8fea6dfbfe402a7269db67
